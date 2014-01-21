@@ -2,7 +2,7 @@ Tarjeta FTDI (convertidor usb - serial) para Arduino - 5V
 =========================================================
 
 
-![](http://http://5hertz.com/images/50053.jpg)
+![](http://5hertz.com/images/50053.jpg)
 
 
 Esta tarjeta contiene un FTDI FT232RL para conversión USB a serial. El pinout de esta tarjeta es idéntico al de un cable FTDI para trabajar con tarjetas Arduino a 5V. Así mismo posee un jumper para configurarla a 3.3V o 5V tanto en niveles de alimentación como en I/O.
